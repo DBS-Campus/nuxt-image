@@ -1,5 +1,5 @@
 {
-  "name": "@nuxt/image",
+  "name": "@dbs-campus/nuxt-image",
   "version": "1.0.0",
   "description": "Nuxt Image Module",
   "repository": "nuxt/image",
@@ -10,6 +10,9 @@
   "files": [
     "dist"
   ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@dbs-campus"
+  },
   "scripts": {
     "build": "nuxt-module-build",
     "dev": "nuxi dev playground",
