@@ -1,6 +1,6 @@
 {
   "name": "@dbs-campus/nuxt-image",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Nuxt Image Module",
   "repository": "nuxt/image",
   "license": "MIT",
